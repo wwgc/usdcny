@@ -1,6 +1,6 @@
 {
   "name": "usdcny",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "美元对人民币汇率，数据来源：中国银行和纸金网",
   "main": "index.js",
   "dependencies": {
