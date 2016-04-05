@@ -1,0 +1,30 @@
+{
+  "name": "usdcny",
+  "version": "1.0.0",
+  "description": "美元对人民币汇率，数据来源：中国银行和纸金网",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "superagent": "^1.8.3"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "usdcny",
+    "boc",
+    "zhijin",
+    "美元对人民币汇率"
+  ],
+  "author": {
+    "name": "jian",
+    "email": "j60017268@gmail.com",
+    "url": "https://github.com/wwgc"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
