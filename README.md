@@ -19,7 +19,7 @@ usdcny.get(function(res){
 usdcny = require('usdcny');
 
 // 中国银行
-usdcny.get('zhijin', function(res){
+usdcny.get('boc', function(res){
 	console.log(res);
 });
 // 纸金网
