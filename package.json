@@ -21,6 +21,10 @@
     "email": "j60017268@gmail.com",
     "url": "https://github.com/wwgc"
   },
+   "repository": {
+    "type": "git",
+    "url": "git@github.com:wwgc/usdcny.git"
+  },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
